@@ -114,28 +114,4 @@ TO DO:
 
 
 <h3>
-AUTHOR:
-</h3>
-This file was authored by TeneoPython01 with select
-code excerpts leveraged from other authors where
-noted.  In some cases the noted authors' code has
-been materially modified.  In other cases it has
-been used verbatim.  All other code is original.
 
-<h3>
-ABOUT AUTHOR:
-</h3>
-Contact me at https://github.com/TeneoPython01
-
-<h3>
-COLLABORATION?
-</h3>
-Collaboration is sought and encouraged on this project!
-
-<h3>
-LICENSE:
-</h3>
-See license information in git repo.  The software
-is released in the public domain as-is without any
-warranty.  More details can be found in the
-license file.
